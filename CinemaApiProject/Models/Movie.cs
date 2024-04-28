@@ -12,6 +12,6 @@ namespace CinemaApiProject.Models
         public int Year { get; set; }
         public string Genre { get; set; }
 
-        public virtual ICollection<Actor> Actors { get; set; }
+        public virtual List<Actor> Actors { get; set; }
     }
 }

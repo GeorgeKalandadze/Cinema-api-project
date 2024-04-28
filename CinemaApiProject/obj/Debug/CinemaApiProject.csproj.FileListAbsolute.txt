@@ -89,3 +89,8 @@ C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\obj\Debug\Cinem
 C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\obj\Debug\CinemaApiProject.pdb
 C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\obj\Debug\CinemaApiProject.Migrations.InitialCreate.resources
 C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\obj\Debug\CinemaApiProject.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\System.ValueTuple.dll
+C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\AutoMapper.pdb
+C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\AutoMapper.xml
+C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\System.ValueTuple.xml
