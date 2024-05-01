@@ -170,11 +170,13 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="AutoMapper\AutoMapperProfile.cs" />
     <Compile Include="Controllers\ActorController.cs" />
+    <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MoviesController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Data\DataContext.cs" />
     <Compile Include="Dtos\ActorDto.cs" />
+    <Compile Include="Dtos\LoginDto.cs" />
     <Compile Include="Dtos\MovieDto.cs" />
     <Compile Include="Dtos\UserDto.cs" />
     <Compile Include="Global.asax.cs">
@@ -183,6 +185,10 @@
     <Compile Include="Migrations\202404272009190_InitialCreate.cs" />
     <Compile Include="Migrations\202404272009190_InitialCreate.designer.cs">
       <DependentUpon>202404272009190_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405010757587_AddPasswordToUsers.cs" />
+    <Compile Include="Migrations\202405010757587_AddPasswordToUsers.designer.cs">
+      <DependentUpon>202405010757587_AddPasswordToUsers.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Actor.cs" />
@@ -244,6 +250,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202404272009190_InitialCreate.resx">
       <DependentUpon>202404272009190_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405010757587_AddPasswordToUsers.resx">
+      <DependentUpon>202405010757587_AddPasswordToUsers.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

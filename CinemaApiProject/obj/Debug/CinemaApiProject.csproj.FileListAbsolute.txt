@@ -94,3 +94,4 @@ C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\System.Valu
 C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\AutoMapper.pdb
 C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\AutoMapper.xml
 C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\bin\System.ValueTuple.xml
+C:\Users\user\OneDrive\Desktop\CinemaApiProject\CinemaApiProject\obj\Debug\CinemaApiProject.Migrations.AddPasswordToUsers.resources
